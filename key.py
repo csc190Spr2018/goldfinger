@@ -2,7 +2,7 @@ def key1():
 	return 123;
 
 def key2():
-	return 231;
+	return 555;
 
 def key3():
 	return 331;
