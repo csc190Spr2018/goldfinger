@@ -10,4 +10,4 @@ def key3():
 def master_key():
 	return key1() * key2() * key3();
 
-print("Master key is: ", master_key);
+print("Master key is: ", master_key());
