@@ -1,5 +1,5 @@
 def key1():
-	return 123;
+	return 72;
 
 def key2():
 	return 231;
