@@ -5,7 +5,7 @@ def key2():
 	return 231;
 
 def key3():
-	return 331;
+	return 777;
 
 def master_key():
 	return key1() * key2() * key3();
